@@ -20,8 +20,16 @@ node server.js
 
 Now the server will be running on http://localhost:5001
 
-API endpoints
+## API endpoints
 
 - GET  
   /users  
   /users/userid
+
+### examples
+
+/users  
+<img src="https://i.imgur.com/t0Lt9yL.png"/>
+
+/users/1
+<img src="https://i.imgur.com/Ybh39wQ.png"/>
