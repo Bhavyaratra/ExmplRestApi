@@ -31,5 +31,5 @@ Now the server will be running on http://localhost:5001
 /users  
 <img src="https://i.imgur.com/t0Lt9yL.png"/>
 
-/users/1
+/users/1  
 <img src="https://i.imgur.com/Ybh39wQ.png"/>
